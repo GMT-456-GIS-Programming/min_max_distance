@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/min_max_distance" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
